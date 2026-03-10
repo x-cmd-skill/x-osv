@@ -143,7 +143,6 @@ No API key required for basic usage. Rate limits apply for unauthenticated reque
 
 ## Related
 
-- [Back to x-cmd Skill](../../SKILL.md)
 - [x-cmd osv module](https://x-cmd.com/mod/osv)
 - [OSV.dev](https://osv.dev) - Official OSV website
 - [OSV GitHub](https://github.com/google/osv.dev)
